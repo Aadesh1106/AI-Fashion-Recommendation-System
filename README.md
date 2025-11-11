@@ -4,11 +4,11 @@
 An intelligent fashion recommendation system that understands style preferences through natural language queries and matches users with products using semantic similarity.
 
 ## Features
-- 🆓 **Free Embeddings**: Uses Sentence Transformers instead of expensive APIs
-- 🎯 **Semantic Matching**: Understands nuanced style descriptions like "cozy weekend vibes"
-- ⚡ **Real-time Performance**: Sub-100ms query response times
-- 📊 **Comprehensive Analytics**: Performance metrics, similarity scores, and visualizations
-- 🔍 **Top-3 Recommendations**: Returns ranked product matches with confidence scores
+-  **Free Embeddings**: Uses Sentence Transformers instead of expensive APIs
+-  **Semantic Matching**: Understands nuanced style descriptions like "cozy weekend vibes"
+-  **Real-time Performance**: Sub-100ms query response times
+-  **Comprehensive Analytics**: Performance metrics, similarity scores, and visualizations
+-  **Top-3 Recommendations**: Returns ranked product matches with confidence scores
 
 ## Technology Stack
 - **Embeddings**: Sentence Transformers (all-MiniLM-L6-v2)
@@ -45,20 +45,3 @@ pip install sentence-transformers scikit-learn pandas matplotlib seaborn
 ├── .gitignore                     # Git ignore patterns
 └── README.md                      # Project documentation
 ```
-
-## Assignment Context
-This project was developed for Nexora's AI Engineering assignment, demonstrating:
-- Production-ready recommendation systems
-- Cost-effective AI solutions
-- Comprehensive testing and evaluation
-- Professional code quality and documentation
-
-## Results
-- **Overall Score**: 87/100 (Excellent)
-- **Innovation**: Cost-effective alternative to OpenAI
-- **Performance**: Enterprise-grade analytics and monitoring
-- **Code Quality**: Professional architecture with proper documentation
-
----
-
-*Developed by Aadesh N for Nexora AI Engineering Assignment*
